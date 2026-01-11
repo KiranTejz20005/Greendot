@@ -6,7 +6,7 @@
 
 ---
 
-### 🏆 AIGNITE 2K25 Hackathon Submission | Built by: Keerthan Reddy
+### 🏆 AIGNITE 2K25 Hackathon Submission 
 
 ---
 
@@ -121,4 +121,5 @@ Include app logo and screenshots in `/assets`:
 Open to collaboration for dataset collection, model improvement, and local partnerships.
 
 ---
+
 
