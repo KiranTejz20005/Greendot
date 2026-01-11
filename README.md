@@ -117,9 +117,10 @@ Include app logo and screenshots in `/assets`:
 
 ## 🧾 Contribution & License
 
-© 2025 Keerthan Reddy. All rights reserved.
+© AppLynk Studio 2025. All rights reserved.
 Open to collaboration for dataset collection, model improvement, and local partnerships.
 
 ---
+
 
 
